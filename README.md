@@ -12,12 +12,19 @@ Verduin_Kruijswijk_et_al_fit_method.jl – Implements the SLN distribution fitti
 ### MATLAB Scripts for Data Processing
 
 HDC_deconvolution.mlx
-
+HDC_var_sys.mlx
 industrial_NPs.mlx
 
-HDC_var_sys.mlx
-
 These folders contain live MATLAB scripts for data processing.
+
+### MATLAB Data Files for Data Processing
+
+HDC_deconvolution.mat
+HDC_var_sys_1.mat
+HDC_var_sys_2.mat
+industrial_NPs.mat
+
+These folders contain the data needed to run the MATLAB scripts. 
 
 ### MATLAB Code for Gaussian Fitting
 
