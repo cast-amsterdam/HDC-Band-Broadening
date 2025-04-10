@@ -15,7 +15,7 @@ HDC_deconvolution.mlx
 
 industrial_NPs.mlx
 
-Simulated_HDC_chromatograms.mlx
+HDC_var_sys.mlx
 
 These folders contain live MATLAB scripts for data processing.
 
